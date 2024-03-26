@@ -1,0 +1,4 @@
+{
+    "team": "https://raw.githubusercontent.com/Vilerio/PapiAPI/ts/data/json/team.json",
+    "messages": "https://raw.githubusercontent.com/Vilerio/PapiAPI/ts/data/json/messages.json"
+}
