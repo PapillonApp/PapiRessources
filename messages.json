@@ -7,8 +7,13 @@
         "title": "Important",
         "content": "Papillon n'est pas affilié à Kosmos. Des bugs peuvent survenir lors de l'utilisation de Skolengo sur Papillon."
     },
+    "Aplim": {
+        "title":"EcoleDirecte",
+        "content":"EcoleDirecte n’est pas encore disponible sur Papillon. Veuillez réessayer plus tard."
+    },
     "warning": {
         "title": "Attention",
         "content": "Papillon est encore en bêta, des bugs peuvent survenir !"
     }
 }
+
